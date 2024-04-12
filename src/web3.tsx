@@ -6,10 +6,10 @@ const projectId = 'df2358cb1158972011d1a93dde013704'
 // 2. Set chains
 const chain = {
     chainId: 80001,
-    name: 'Polygon Mumbai',
-    currency: 'MATIC',
-    explorerUrl: 'https://mumbai.polygonscan.com',
-    rpcUrl: 'https://rpc.ankr.com/polygon_mumbai'
+    name: 'BNB testnet',
+    currency: 'BNB',
+    explorerUrl: 'https://testnet.bscscan.com',
+    rpcUrl: 'https://data-seed-prebsc-1-s1.bnbchain.org:8545'
 }
 
 // 3. Create a metadata object

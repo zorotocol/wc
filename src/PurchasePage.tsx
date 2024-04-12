@@ -8,7 +8,7 @@ import ConnectPage from "./ConnectPage";
 import {useAsync} from "react-async";
 import {useEffect, useState} from "react";
 
-const contractAddress = '0x8aff56a5c06169b6259637730c65f6987ada75dc';
+const contractAddress = '0x25068d6f9Ce647d0F9e65CAC76483c81f532f977';
 const abi = [
     'function balanceOf(address) view returns (uint)',
     'function purchase(uint256,string) returns (uint)',
