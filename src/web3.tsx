@@ -5,7 +5,7 @@ const projectId = 'df2358cb1158972011d1a93dde013704'
 
 // 2. Set chains
 const chain = {
-    chainId: 80001,
+    chainId: 97,
     name: 'BNB testnet',
     currency: 'BNB',
     explorerUrl: 'https://testnet.bscscan.com',
